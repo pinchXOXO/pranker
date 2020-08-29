@@ -9,7 +9,7 @@ clear
 	\033[0;36m             ██║     ██║  ██║██║  ██║██║ ╚████║ \033[1;31m ██║  ██╗███████╗██║  ██║
 	\033[0;36m             ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ \033[1;31m ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 "
-	echo -e "\n		     \033[0;36mAuthor $white: \033[1;32m@Yasser Tahiri$nc"
+	echo -e "\n		     \033[0;36mAuthor $white: \033[1;32m@Devy$nc"
 	echo -e "\n      		\e[44m$red[$green!$red]$white WARNING : Attacking Targets Without Prior  $red[$green!$red]$nc"
 	echo -e "      		\e[101m$blue[$green!$blue]$white  Consent Is Illegal And Punished By Law.   $blue[$green!$blue]$nc\n"
 }
